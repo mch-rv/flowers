@@ -155,7 +155,7 @@ a:hover {
  font-size: 27px;
  margin-top: 30px;
  color: #3b4049;
- text-decoration: underline;
+ text-decoration: none;
 }
 
 .wrapper:hover .lid.one {
